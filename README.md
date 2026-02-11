@@ -13,8 +13,8 @@ Using a **Bi-Directional LSTM** trained on SMILES strings, the model achieves hi
 ### 🏆 Key Results
 | Metric | Score | Notes |
 | :--- | :--- | :--- |
-| **RMSE** | **0.58** | Low error margin (Log units) |
-| **R²** | **0.84** | High correlation with experimental data |
+| **RMSE** | **0.3617** | Low error margin (Log units) |
+| **R²** | **0.9660** | High correlation with experimental data |
 
 ### 🧠 The "Chemical Intuition" (Interpretability)
 Unlike "Black Box" models, this network learned actual chemical rules without explicit programming.

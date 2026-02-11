@@ -1,0 +1,6 @@
+torch
+pandas
+numpy
+rdkit
+scikit-learn
+wget

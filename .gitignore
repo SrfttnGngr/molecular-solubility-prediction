@@ -1,0 +1,17 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+# Model files (You CAN upload best_model.pth if it's small, <100MB)
+# If it's huge, uncomment the next line:
+# *.pth
+
+# Data (Optional: keeping the csv is fine since it's small)
+# data/
+
+# OS specific
+.DS_Store
+Thumbs.db

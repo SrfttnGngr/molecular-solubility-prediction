@@ -59,5 +59,5 @@ Unlike "Black Box" models, this network learned actual chemical rules without ex
 
 1. **Clone the repo**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/molecular-solubility-prediction.git](https://github.com/YOUR_USERNAME/molecular-solubility-prediction.git)
+   git clone [https://github.com/YOUR_USERNAME/molecular-solubility-prediction.git](https://github.com/SrfttnGngr/molecular-solubility-prediction.git)
    cd molecular-solubility-prediction
